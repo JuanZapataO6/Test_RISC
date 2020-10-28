@@ -24,7 +24,7 @@ Original file is located at
 # corto "np" como referencia rápida
 import numpy as np
 def Saludo_Kevin():
-  print("Inserte Aquí Texto Kevin")
+  print("Hola mi nombre es Kevin y soy estudiante de Bionano!")
 def Saludo_Karol():
   print("Inserte Aquí Texto Karol")
 def Saludo_Harold():
