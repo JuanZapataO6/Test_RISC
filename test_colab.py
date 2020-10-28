@@ -30,7 +30,7 @@ def Saludo_Karol():
 def Saludo_Harold():
   print("Hola Mundo, desde github al master")
 def Saludo_Juan():
-  print("Inserte Aquí Texto Juan")
+  print("Hola soy Juan")
 def Saludo_Jaime():
   print("Inserte Aquí Texto Jaime")
 Saludo_Kevin()
